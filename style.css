@@ -5,7 +5,7 @@
   align-items: start;
 } */
 .heading{
-    margin:0 30px;
+    margin:10 30px;
  }
  .para{
   margin:8px 30px;
@@ -18,5 +18,5 @@
 }
 .image{
   width:30px;
-  height: 30px;
+  height: 20px;
 }
